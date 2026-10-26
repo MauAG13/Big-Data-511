@@ -18,3 +18,9 @@ bigdata/
 ├── U1_2_...
 ├── U2_1_...
 └── ...
+
+## Datos no incluidos
+El archivo `Examen_segundo_parcial/data/raw/nyc_taxi_examen.csv` no se sube al
+repositorio porque tiene millones de registros (más de 300 MB). Está agregado en
+el `.gitignore`. Para ejecutar el notebook del segundo examen parcial, coloca una
+copia del archivo en `Examen_segundo_parcial/data/raw/`.
