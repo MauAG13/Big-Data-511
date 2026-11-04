@@ -8,6 +8,12 @@ Agrupamiento de clientes de un distribuidor mayorista según su gasto anual en s
 
 El notebook lee el CSV desde `data/raw/` (no lo descarga). Si falta, hay que colocar ahí el archivo `Wholesale customers data.csv` de [UCI](https://archive.ics.uci.edu/dataset/292/wholesale+customers).
 
+## Actividades adicionales
+
+- `notebooks/U4_3_Plantilla_Clustering_Online_retail.ipynb` — plantilla para preparar y explorar los datos de Online Retail.
+- `notebooks/U4_4_correlacion_Pearson.ipynb` — análisis de correlación de Pearson usando `data/raw/dataset_7variables_2000_2022.csv`.
+- `data/raw/Wholesale_customers_data.csv` y `data/raw/dataset_7variables_2000_2022.csv` — datasets adicionales de la unidad.
+
 ## Estructura del proyecto
 
 ```
